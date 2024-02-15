@@ -1,0 +1,4 @@
+Packages required:
+
+- pynput
+- pyserial
